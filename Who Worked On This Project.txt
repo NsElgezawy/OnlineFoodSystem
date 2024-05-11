@@ -1,6 +1,6 @@
 "Akalni Shokran - Online Order System" project:
 
-We, a team of five AI Faculty students, are thrilled to present "Akalni Shokran" (Arabic for "√ﬂ·‰Ì ‘ﬂ—«"),
+We, a team of five AI Faculty students, are thrilled to present "Akalni Shokran" (Arabic for "√É√ü√°√§√≠ √î√ü√ë√∞√á"),
 an online ordering system developed from scratch using C++ and OOP fundamentals. 
 This project served as our practical exam, showcasing our understanding of these core concepts.
 
@@ -22,5 +22,5 @@ We believe "Akalni Shokran" has the potential to streamline the online ordering 
 
 
 For further inquiries or project discussions, feel free to reach out to me at :
-mohammed24ashraf25ali@gmail.com.
+nselgezawy@gmail.com
 
